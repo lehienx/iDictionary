@@ -1,0 +1,639 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>iDictionary &mdash; Free Website Template, Free HTML5 Template by gettemplates.co</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Free HTML5 Website Template by gettemplates.co" />
+	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
+	<meta name="author" content="gettemplates.co" />
+
+  	<!-- Facebook and Twitter integration -->
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<!-- <link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet"> -->
+
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Themify Icons-->
+	<link rel="stylesheet" href="css/themify-icons.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Magnific Popup -->
+	<link rel="stylesheet" href="css/magnific-popup.css">
+	<!-- Owl Carousel  -->
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+	<!-- Flexslider -->
+	<link rel="stylesheet" href="css/flexslider.css">
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+<!-- addd-->
+    <!-- Custom stylesheet -->
+    <link rel="stylesheet" href="css/custom.css" />
+     <link rel="stylesheet" href="assets/css/slick/slick.css">
+     <link rel="stylesheet" href="assets/css/slick/slick-theme.css">
+     <link rel="stylesheet" href="assets/css/animate.css">
+     <link rel="stylesheet" href="assets/css/iconfont.css">
+     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+     <link rel="stylesheet" href="assets/css/bootstrap.css">
+     <link rel="stylesheet" href="assets/css/magnific-popup.css">
+     <link rel="stylesheet" href="assets/css/bootsnav.css">
+     <link rel="stylesheet" href="assets/css/style.css">
+      <!--<link rel="stylesheet" href="assets/css/colors/maron.css">-->
+
+      <!--Theme Responsive css-->
+      <link rel="stylesheet" href="assets/css/responsive.css" />
+<!-- addd-->
+    <script src="assets/js/plugins.js"></script>
+    <script src="assets/js/main.js"></script>
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+
+	<div class="gtco-loader"></div>
+
+	<div id="page">
+	<nav class="gtco-nav" role="navigation">
+		<div class="gtco-container">
+			<div class="row">
+				<div class="col-sm-2 col-xs-12">
+					<p id="gtco-logo">日本語学習</p>
+				</div>
+				<div class="col-xs-10 text-right menu-1 main-nav">
+					<ul>
+						<li class="active"><a href="#" data-nav-section="home">ランニング</a></li>
+						<li><a href="#" data-nav-section="products">初級</a></li>
+						<li><a href="#" data-nav-section="invalite">中級</a></li>
+						<li><a href="#" data-nav-section="advanded">上級</a></li>
+						<li><a href="#" data-nav-section="news">ニュース</a></li>
+						<li><a href="#" data-nav-section="books">本</a></li>
+						<li><a href="#" data-nav-section="registeraccount">アカウント登録</a></li>
+						<li><a href="#" data-nav-section="contact">問い合わせ</a></li>
+					</ul>
+				</div>
+			</div>
+
+		</div>
+	</nav>
+	<section id="home" class="home bg-black fix" data-section="home">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="main_home text-center">
+                    <div class="col-md-12">
+                        <div class="hello_slid">
+                            <div class="slid_item">
+                                <div class="home_text ">
+                                    <h2 class="text-white"><strong>慎二</strong></h2>
+                                    <h1 class="text-white">シンジ</h1>
+                                    <h3 class="text-white"><strong>shinji</strong></h3>
+                                </div>
+
+                                <div class="home_btns m-top-40">
+                                    <a href="" class="btn btn-primary m-top-20">詳細</a>
+                                </div>
+                            </div>
+                            <div class="slid_item">
+                                <div class="home_text ">
+                                    <h2 class="text-white"><strong>港</strong></h2>
+                                    <h1 class="text-white">みなと</h1>
+                                    <h3 class="text-white"><strong>minato</strong></h3>
+                                </div>
+
+                                <div class="home_btns m-top-40">
+                                    <a href="" class="btn btn-primary m-top-20">詳細</a>
+                                </div>
+                            </div>
+                               <div class="slid_item">
+                                <div class="home_text ">
+                                    <h2 class="text-white"><strong>常に</strong></h2>
+                                    <h1 class="text-white">つねに</h1>
+                                    <h3 class="text-white"><strong>tsuneni</strong></h3>
+                                </div>
+
+                                <div class="home_btns m-top-40">
+                                    <a href="" class="btn btn-primary m-top-20">詳細</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+<!--
+	<div id="gtco-hero" class="js-fullheight"  data-section="home">
+		<div class="flexslider js-fullheight">
+			<ul class="slides">
+		   	<li style="background-image: url(images/img_bg_1.jpg);">
+		   		<div class="overlay"></div>
+		   		<div class="container">
+		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
+		   				<div class="slider-text-inner">
+		   					<h2>慎二</h2>
+		   					<p>シンジ</p>
+		   				</div>
+		   			</div>
+		   		</div>
+		   	</li>
+		   	<li style="background-image: url(images/img_bg_2.jpg);">
+		   		<div class="overlay"></div>
+		   		<div class="container">
+		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
+		   				<div class="slider-text-inner">
+		   					<h2>港</h2>
+		   					<p>みなと</p>
+		   				</div>
+		   			</div>
+		   		</div>
+		   	</li>
+		   	<li style="background-image: url(images/img_bg_3.jpg);">
+		   		<div class="overlay"></div>
+		   		<div class="container">
+		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
+		   				<div class="slider-text-inner">
+		   					<h2>希望</h2>
+		   					<p></p>
+		   				</div>
+		   			</div>
+		   		</div>
+		   	</li>
+		  	</ul>
+	  	</div>
+	</div> -->
+	<div class="gtco-section-overflow">
+		<div id="gtco-counter" class="gtco-section">
+			<div class="gtco-container">
+				<!--
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
+						<h2>Fun Facts</h2>
+						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					</div>
+				</div>
+ 				-->
+				<div class="row">
+
+					<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+						<div class="feature-center">
+							<span class="icon">
+								<i class="ti-download"></i>
+							</span>
+							<span class="counter js-counter" data-from="0" data-to="2122070" data-speed="5000" data-refresh-interval="50">1</span>
+							<span class="counter-label">Downloads</span>
+
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+						<div class="feature-center">
+							<span class="icon">
+								<i class="ti-face-smile"></i>
+							</span>
+							<span class="counter js-counter" data-from="0" data-to="402002" data-speed="5000" data-refresh-interval="50">1</span>
+							<span class="counter-label">Happy Clients</span>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+						<div class="feature-center">
+							<span class="icon">
+								<i class="ti-briefcase"></i>
+							</span>
+							<span class="counter js-counter" data-from="0" data-to="402" data-speed="5000" data-refresh-interval="50">1</span>
+							<span class="counter-label">Projects Done</span>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+						<div class="feature-center">
+							<span class="icon">
+								<i class="ti-time"></i>
+							</span>
+							<span class="counter js-counter" data-from="0" data-to="212023" data-speed="5000" data-refresh-interval="50">1</span>
+							<span class="counter-label">Hours Spent</span>
+
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+		<div id="gtco-products" data-section="products">
+			<div class="gtco-container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
+						<h2>初級</h2>
+					</div>
+				</div>
+				<div class="row">
+                    <div class="col-sm-6">
+                        <div class="service coaching">
+                            <img src="images/vocabulary.png" alt="" />
+                            <a href="Vocabulary.jsp" class="service_btn get_it_btn">Learn More</a>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="service web">
+                            <img src="images/kanji.png" alt="" />
+                            <a href="Vocabulary.jsp" class="service_btn learn_btn">Learn More</a>
+                        </div>
+                    </div>
+                </div><!--
+				<div class="row">
+					<div class="owl-carousel owl-carousel-carousel">
+						<div class="item">
+							<img src="images/img_1.jpg" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
+						</div>
+						<div class="item">
+							<img src="images/img_2.jpg" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
+						</div>
+						<div class="item">
+							<img src="images/img_3.jpg" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
+						</div>
+						<div class="item">
+							<img src="images/img_4.jpg" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
+						</div>
+					</div>
+				</div>
+			</div>-->
+		</div>
+
+		<div id="gtco-products" data-section="invalite">
+			<div class="gtco-container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
+						<h2>中級</h2>
+					</div>
+				</div>
+				<div class="row">
+                    <div class="col-sm-6">
+                        <div class="service coaching">
+                            <img src="images/vocabulary.png" alt="" />
+                             <a href="Vocabulary.jsp" class="service_btn get_it_btn">Learn More</a>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="service web">
+                            <img src="images/kanji.png" alt="" />
+                            <a href="Vocabulary.jsp" class="service_btn learn_btn">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+			</div>
+		</div>
+		<div id="gtco-products" data-section="advanded">
+			<div class="gtco-container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
+						<h2>上級</h2>
+					</div>
+				</div>
+				<div class="row">
+                    <div class="col-sm-6">
+                        <div class="service coaching">
+                            <img src="images/vocabulary.png" alt="" />
+                              <a href="Vocabulary.jsp" class="service_btn get_it_btn">Learn More</a>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="service web">
+                            <img src="images/kanji.png" alt="" />
+                            <a href="Vocabulary.jsp" class="service_btn learn_btn">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+			</div>
+		</div>
+	</div>
+	<div id="gtco-blog" data-section="news">
+		<div class="gtco-container">
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
+					<h2>ニュース</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<a href="#" class="gtco-card-item has-text">
+						<figure>
+							<div class="overlay"><i class="ti-plus"></i></div>
+							<img src="images/img_1.jpg" alt="Image" class="img-responsive">
+						</figure>
+						<div class="gtco-text text-left">
+							<h2>25 Minimal Web Design for Inspiration</h2>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<p class="gtco-category">Sep. 25th, 2016 by John Doe</p>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-md-4">
+					<a href="#" class="gtco-card-item has-text">
+						<figure>
+							<div class="overlay"><i class="ti-plus"></i></div>
+							<img src="images/img_2.jpg" alt="Image" class="img-responsive">
+						</figure>
+						<div class="gtco-text text-left">
+							<h2>25 Minimal Web Design for Inspiration</h2>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<p class="gtco-category">Sep. 25th, 2016 by John Doe</p>
+						</div>
+					</a>
+				</div>
+				<div class="clearfix visible-sm-block"></div>
+				<div class="col-md-4">
+					<a href="#" class="gtco-card-item has-text">
+						<figure>
+							<div class="overlay"><i class="ti-plus"></i></div>
+							<img src="images/img_3.jpg" alt="Image" class="img-responsive">
+						</figure>
+						<div class="gtco-text text-left">
+							<h2>25 Minimal Web Design for Inspiration</h2>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<p class="gtco-category">Sep. 25th, 2016 by John Doe</p>
+						</div>
+					</a>
+				</div>
+				<div class="clearfix visible-lg-block visible-md-block"></div>
+
+				<div class="col-md-4">
+					<a href="#" class="gtco-card-item has-text">
+						<figure>
+							<div class="overlay"><i class="ti-plus"></i></div>
+							<img src="images/img_4.jpg" alt="Image" class="img-responsive">
+						</figure>
+						<div class="gtco-text text-left">
+							<h2>25 Minimal Web Design for Inspiration</h2>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<p class="gtco-category">Sep. 25th, 2016 by John Doe</p>
+						</div>
+					</a>
+				</div>
+				<div class="clearfix visible-sm-block"></div>
+
+				<div class="col-md-4">
+					<a href="#" class="gtco-card-item has-text">
+						<figure>
+							<div class="overlay"><i class="ti-plus"></i></div>
+							<img src="images/img_5.jpg" alt="Image" class="img-responsive">
+						</figure>
+						<div class="gtco-text text-left">
+							<h2>25 Minimal Web Design for Inspiration</h2>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<p class="gtco-category">Sep. 25th, 2016 by John Doe</p>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-md-4">
+					<a href="#" class="gtco-card-item has-text">
+						<figure>
+							<div class="overlay"><i class="ti-plus"></i></div>
+							<img src="images/img_6.jpg" alt="Image" class="img-responsive">
+						</figure>
+						<div class="gtco-text text-left">
+							<h2>25 Minimal Web Design for Inspiration</h2>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<p class="gtco-category">Sep. 25th, 2016 by John Doe</p>
+						</div>
+					</a>
+				</div>
+				<div class="clearfix visible-lg-block visible-md-block"></div>
+				<div class="clearfix visible-sm-block"></div>
+
+			</div>
+		</div>
+	</div>
+	<div id="gtco-blog" data-section="books">
+		<div class="gtco-container">
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
+					<h2>本</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<a href="#" class="gtco-card-item has-text">
+						<figure>
+							<div class="overlay"><i class="ti-plus"></i></div>
+							<img src="images/img_1.jpg" alt="Image" class="img-responsive">
+						</figure>
+						<div class="gtco-text text-left">
+							<h2>25 Minimal Web Design for Inspiration</h2>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<p class="gtco-category">Sep. 25th, 2016 by John Doe</p>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-md-4">
+					<a href="#" class="gtco-card-item has-text">
+						<figure>
+							<div class="overlay"><i class="ti-plus"></i></div>
+							<img src="images/img_2.jpg" alt="Image" class="img-responsive">
+						</figure>
+						<div class="gtco-text text-left">
+							<h2>25 Minimal Web Design for Inspiration</h2>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<p class="gtco-category">Sep. 25th, 2016 by John Doe</p>
+						</div>
+					</a>
+				</div>
+				<div class="clearfix visible-sm-block"></div>
+				<div class="col-md-4">
+					<a href="#" class="gtco-card-item has-text">
+						<figure>
+							<div class="overlay"><i class="ti-plus"></i></div>
+							<img src="images/img_3.jpg" alt="Image" class="img-responsive">
+						</figure>
+						<div class="gtco-text text-left">
+							<h2>25 Minimal Web Design for Inspiration</h2>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<p class="gtco-category">Sep. 25th, 2016 by John Doe</p>
+						</div>
+					</a>
+				</div>
+				<div class="clearfix visible-lg-block visible-md-block"></div>
+
+				<div class="col-md-4">
+					<a href="#" class="gtco-card-item has-text">
+						<figure>
+							<div class="overlay"><i class="ti-plus"></i></div>
+							<img src="images/img_4.jpg" alt="Image" class="img-responsive">
+						</figure>
+						<div class="gtco-text text-left">
+							<h2>25 Minimal Web Design for Inspiration</h2>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<p class="gtco-category">Sep. 25th, 2016 by John Doe</p>
+						</div>
+					</a>
+				</div>
+				<div class="clearfix visible-sm-block"></div>
+
+				<div class="col-md-4">
+					<a href="#" class="gtco-card-item has-text">
+						<figure>
+							<div class="overlay"><i class="ti-plus"></i></div>
+							<img src="images/img_5.jpg" alt="Image" class="img-responsive">
+						</figure>
+						<div class="gtco-text text-left">
+							<h2>25 Minimal Web Design for Inspiration</h2>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<p class="gtco-category">Sep. 25th, 2016 by John Doe</p>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-md-4">
+					<a href="#" class="gtco-card-item has-text">
+						<figure>
+							<div class="overlay"><i class="ti-plus"></i></div>
+							<img src="images/img_6.jpg" alt="Image" class="img-responsive">
+						</figure>
+						<div class="gtco-text text-left">
+							<h2>25 Minimal Web Design for Inspiration</h2>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<p class="gtco-category">Sep. 25th, 2016 by John Doe</p>
+						</div>
+					</a>
+				</div>
+				<div class="clearfix visible-lg-block visible-md-block"></div>
+				<div class="clearfix visible-sm-block"></div>
+
+			</div>
+		</div>
+	</div>
+
+	<div id="gtco-subscribe" data-section="registeraccount">
+		<div class="gtco-container">
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
+					<h2>アカウント登録</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<form class="form-inline">
+						<div class="col-md-4 col-sm-4">
+							<div class="form-group">
+								<label for="email" class="sr-only">Email</label>
+								<input type="email" class="form-control" id="email" placeholder="メール">
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-4">
+							<div class="form-group">
+								<label for="name" class="sr-only">Name</label>
+								<input type="text" class="form-control" id="name" placeholder="パスワード">
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-4">
+							<button type="submit" class="btn btn-danger btn-block">登録</button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="gtco-contact" data-section="contact" class="gtco-cover gtco-cover-xs" style="background-image:url(images/img_bg_2.jpg);">
+		<div class="overlay"></div>
+		<div class="gtco-container">
+			<div class="row text-center">
+				<div class="display-t">
+					<div class="display-tc">
+						<div class="col-md-12">
+							<h3>If you have inqueries please email us at <a href="#">info@yourdomain.com</a></h3>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<footer id="gtco-footer" role="contentinfo">
+		<div class="gtco-container">
+
+			<div class="row copyright">
+				<div class="col-md-12">
+					<p class="pull-left">
+						<small class="block">&copy; 2018 Free HTML5. All Rights Reserved.</small>
+						<small class="block">Designed by <a href="http://gettemplates.co/" target="_blank">GetTemplates.co</a> Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small>
+					</p>
+					<p class="pull-right">
+						<ul class="gtco-social-icons pull-right">
+							<li><a href="#"><i class="icon-twitter"></i></a></li>
+							<li><a href="#"><i class="icon-facebook"></i></a></li>
+							<li><a href="#"><i class="icon-linkedin"></i></a></li>
+							<li><a href="#"><i class="icon-dribbble"></i></a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+
+		</div>
+	</footer>
+	</div>
+
+	<div class="gototop js-top">
+		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
+	</div>
+
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Carousel -->
+	<script src="js/owl.carousel.min.js"></script>
+	<!-- countTo -->
+	<script src="js/jquery.countTo.js"></script>
+	<!-- Flexslider -->
+	<script src="js/jquery.flexslider-min.js"></script>
+	<!-- Magnific Popup -->
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/magnific-popup-options.js"></script>
+	<!-- Main -->
+	<script src="js/main.js"></script>
+	<script src="js/bootsnav.js"></script>
+
+	<!-- ランニング -->
+   <script src="assets/js/vendor/jquery-1.11.2.min.js"></script>
+   <script src="assets/js/vendor/bootstrap.min.js"></script>
+
+   <script src="assets/js/owl.carousel.min.js"></script>
+   <script src="assets/js/jquery.magnific-popup.js"></script>
+   <script src="assets/js/jquery.easing.1.3.js"></script>
+   <script src="assets/css/slick/slick.js"></script>
+   <script src="assets/css/slick/slick.min.js"></script>
+   <script src="assets/js/jquery.collapse.js"></script>
+   <script src="assets/js/bootsnav.js"></script>
+   <script src="assets/js/plugins.js"></script>
+   <script src="assets/js/main.js"></script>
+	<!-- ランニング -->
+	</body>
+</html>

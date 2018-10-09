@@ -1,0 +1,27 @@
+http://software.fujitsu.com/jp/manual/manualfiles/m170007/b1ws1308/02z200/b1308-00-01-01-00.html
+
+https://chrome.google.com/webstore/category/extensions
+
+JavaによるRESTfulシステム構築
+https://qiita.com/opengl-8080/items/aeda0d8bad42af3113bd
+
+MVC 1.0 + CDI + JPAで簡単な検索アプリを作る
+http://masatoshitada.hatenadiary.jp/entry/2015/04/03/230book/dp/B019ONDIK2
+
+Java EE 7徹底入門 標準Javaフレームワークによる高信頼性Webシステム700
+
+Spring Bootハンズオン
+http://www.java-users.jp/?p=1700
+
+詳細設計　成果物作成要領
+http://open-process.jp/home/d%E8%A9%B3%E7%B4%B0%E8%A8%AD%E8%A8%88%E3%80%80%E6%88%90%E6%9E%9C%E7%89%A9%E4%BD%9C%E6%88%90%E8%A6%81%E9%A0%98/
+
+
+画面
+https://app.moqups.com/unsaved/16c2e62f/edit/page/ad64222d5
+
+rest api
+https://qiita.com/tamura_CD/items/e3abdab9b8c5aa35fa6b
+
+er
+https://www.lucidchart.com/documents/view/c56abc64-d8c7-4257-9d5c-5cd8bb750c51/0
