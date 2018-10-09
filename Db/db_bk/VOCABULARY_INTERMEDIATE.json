@@ -1,0 +1,110 @@
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e3ee"), 
+    "vocabulary_intermedia_id" : "ee75ffac", 
+    "vietnamese_id" : "ddec0577"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e3ef"), 
+    "vocabulary_intermedia_id" : "6036f3f4", 
+    "vietnamese_id" : "af486416"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e3f0"), 
+    "vocabulary_intermedia_id" : "3de3e1a6", 
+    "vietnamese_id" : "47dd3814"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e3f1"), 
+    "vocabulary_intermedia_id" : "3deaf09a", 
+    "vietnamese_id" : "836c3904"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e3f2"), 
+    "vocabulary_intermedia_id" : "7222d456", 
+    "vietnamese_id" : "bab574a5"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e3f3"), 
+    "vocabulary_intermedia_id" : "d1bc5745", 
+    "vietnamese_id" : "407b44f9"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e3f4"), 
+    "vocabulary_intermedia_id" : "9ef8e763", 
+    "vietnamese_id" : "d6ce64c5"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e3f5"), 
+    "vocabulary_intermedia_id" : "4d72be79", 
+    "vietnamese_id" : "82319071"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e3f6"), 
+    "vocabulary_intermedia_id" : "2003e93b", 
+    "vietnamese_id" : "61022aa4"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e3f7"), 
+    "vocabulary_intermedia_id" : "b0c85cb8", 
+    "vietnamese_id" : "c2b1e45a"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e3f8"), 
+    "vocabulary_intermedia_id" : "3b6e12e2", 
+    "vietnamese_id" : "b8e1148c"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e3f9"), 
+    "vocabulary_intermedia_id" : "0be76db9", 
+    "vietnamese_id" : "025bb0de"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e3fa"), 
+    "vocabulary_intermedia_id" : "7dabdc53", 
+    "vietnamese_id" : "50fd0229"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e3fb"), 
+    "vocabulary_intermedia_id" : "1a3cc331", 
+    "vietnamese_id" : "e4d7cee8"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e3fc"), 
+    "vocabulary_intermedia_id" : "6f0dbc60", 
+    "vietnamese_id" : "6ba92b0a"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e3fd"), 
+    "vocabulary_intermedia_id" : "d270a95c", 
+    "vietnamese_id" : "bd6da6cc"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e3fe"), 
+    "vocabulary_intermedia_id" : "9256cf2c", 
+    "vietnamese_id" : "a8732cd0"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e3ff"), 
+    "vocabulary_intermedia_id" : "92d00c4b", 
+    "vietnamese_id" : "54c1f3c0"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e400"), 
+    "vocabulary_intermedia_id" : "14539ebc", 
+    "vietnamese_id" : "60c25b21"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e401"), 
+    "vocabulary_intermedia_id" : "491577d2", 
+    "vietnamese_id" : "3c4d7fde"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e402"), 
+    "vocabulary_intermedia_id" : "72f07c9c", 
+    "vietnamese_id" : "12decdc5"
+}
+{ 
+    "_id" : ObjectId("5bac9611a3c3bb04b939e403"), 
+    "vocabulary_intermedia_id" : "0b263769", 
+    "vietnamese_id" : "bf24467e"
+}

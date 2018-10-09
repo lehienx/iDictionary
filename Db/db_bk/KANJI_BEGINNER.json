@@ -1,0 +1,115 @@
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e289"), 
+    "kanji_beginner_id" : "2e2053ae", 
+    "kanji_vietnamese_id" : "232acfc1"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e28a"), 
+    "kanji_beginner_id" : "9ced36d1", 
+    "kanji_vietnamese_id" : "9733e9d6"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e28b"), 
+    "kanji_beginner_id" : "3bb5e12a", 
+    "kanji_vietnamese_id" : "c2b45d99"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e28c"), 
+    "kanji_beginner_id" : "70725a36", 
+    "kanji_vietnamese_id" : "97f9c041"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e28d"), 
+    "kanji_beginner_id" : "400886d3", 
+    "kanji_vietnamese_id" : "a93da180"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e28e"), 
+    "kanji_beginner_id" : "b82f10db", 
+    "kanji_vietnamese_id" : "ee58ca50"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e28f"), 
+    "kanji_beginner_id" : "205fb352", 
+    "kanji_vietnamese_id" : "51f84dbd"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e290"), 
+    "kanji_beginner_id" : "18bd0b36", 
+    "kanji_vietnamese_id" : "9dab8f3d"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e291"), 
+    "kanji_beginner_id" : "5948aa93", 
+    "kanji_vietnamese_id" : "340abf30"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e292"), 
+    "kanji_beginner_id" : "74bc504d", 
+    "kanji_vietnamese_id" : "39bccb90"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e293"), 
+    "kanji_beginner_id" : "dbdf2a63", 
+    "kanji_vietnamese_id" : "37920a19"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e294"), 
+    "kanji_beginner_id" : "473fed08", 
+    "kanji_vietnamese_id" : "9262495e"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e295"), 
+    "kanji_beginner_id" : "3c9393df", 
+    "kanji_vietnamese_id" : "36da2655"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e296"), 
+    "kanji_beginner_id" : "d643dcb1", 
+    "kanji_vietnamese_id" : "a1fead2e"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e297"), 
+    "kanji_beginner_id" : "079708aa", 
+    "kanji_vietnamese_id" : "2e6ce4d1"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e298"), 
+    "kanji_beginner_id" : "abf2e790", 
+    "kanji_vietnamese_id" : "e2c9b242"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e299"), 
+    "kanji_beginner_id" : "ed1f9ec0", 
+    "kanji_vietnamese_id" : "7e2962ea"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e29a"), 
+    "kanji_beginner_id" : "33fb4c9b", 
+    "kanji_vietnamese_id" : "038da753"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e29b"), 
+    "kanji_beginner_id" : "61410bf5", 
+    "kanji_vietnamese_id" : "85d13649"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e29c"), 
+    "kanji_beginner_id" : "dd665809", 
+    "kanji_vietnamese_id" : "7a3d6236"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e29d"), 
+    "kanji_beginner_id" : "1d143c3d", 
+    "kanji_vietnamese_id" : "cef18b5f"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e29e"), 
+    "kanji_beginner_id" : "2aaa2aad", 
+    "kanji_vietnamese_id" : "a46015bf"
+}
+{ 
+    "_id" : ObjectId("5bac870ba3c3bb04b939e29f"), 
+    "kanji_beginner_id" : "4544242a", 
+    "kanji_vietnamese_id" : "4ed18831"
+}

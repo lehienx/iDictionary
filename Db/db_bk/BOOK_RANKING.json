@@ -1,0 +1,28 @@
+{ 
+    "_id" : ObjectId("5badb5d56ee9f1032fd37071"), 
+    "book_id" : "8a138339", 
+    "user_id" : "9250c432", 
+    "buy_cnt" : "1", 
+    "buy_date" : "2018/9/28 14:00"
+}
+{ 
+    "_id" : ObjectId("5badb5d56ee9f1032fd37072"), 
+    "book_id" : "4eb2965b", 
+    "user_id" : "9895b656", 
+    "buy_cnt" : "1", 
+    "buy_date" : "2018/9/28 14:00"
+}
+{ 
+    "_id" : ObjectId("5badb5d56ee9f1032fd37073"), 
+    "book_id" : "0e6e6b50", 
+    "user_id" : "9250c432", 
+    "buy_cnt" : "1", 
+    "buy_date" : "2018/9/28 14:00"
+}
+{ 
+    "_id" : ObjectId("5badb5d56ee9f1032fd37074"), 
+    "book_id" : "590b2835", 
+    "user_id" : "9895b656", 
+    "buy_cnt" : "1", 
+    "buy_date" : "2018/9/28 14:00"
+}

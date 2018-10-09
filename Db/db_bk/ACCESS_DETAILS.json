@@ -1,0 +1,12 @@
+{ 
+    "_id" : ObjectId("5badb8656ee9f1032fd37091"), 
+    "access_detail_id" : "13d708f3", 
+    "access_cnt" : "4", 
+    "access_date" : "2018/9/28 14:11"
+}
+{ 
+    "_id" : ObjectId("5badb8656ee9f1032fd37092"), 
+    "access_detail_id" : "80c38ef0", 
+    "access_cnt" : "6", 
+    "access_date" : "2018/9/28 14:11"
+}

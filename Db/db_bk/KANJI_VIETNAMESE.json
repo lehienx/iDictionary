@@ -1,0 +1,828 @@
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e264"), 
+    "kanji_vietnamese_id" : "232acfc1", 
+    "kanji" : "一", 
+    "japanese_onyomi" : "イチ", 
+    "japanese_kunyomi" : "イチ訓読み", 
+    "vn_jp_meaning" : "NHẤT", 
+    "vietnamese_meaning" : "một", 
+    "example" : "mộtEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e265"), 
+    "kanji_vietnamese_id" : "9733e9d6", 
+    "kanji" : "九", 
+    "japanese_onyomi" : "キュウ", 
+    "japanese_kunyomi" : "キュウ訓読み", 
+    "vn_jp_meaning" : "CỬU", 
+    "vietnamese_meaning" : "chín", 
+    "example" : "chínEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e266"), 
+    "kanji_vietnamese_id" : "c2b45d99", 
+    "kanji" : "十", 
+    "japanese_onyomi" : "ジュウ・ジッ～", 
+    "japanese_kunyomi" : "ジュウ・ジッ～訓読み", 
+    "vn_jp_meaning" : "THẬP", 
+    "vietnamese_meaning" : "mười", 
+    "example" : "mườiEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e267"), 
+    "kanji_vietnamese_id" : "97f9c041", 
+    "kanji" : "人", 
+    "japanese_onyomi" : "ジン・ニン", 
+    "japanese_kunyomi" : "ジン・ニン訓読み", 
+    "vn_jp_meaning" : "NHÂN", 
+    "vietnamese_meaning" : "người", 
+    "example" : "ngườiEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "42018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e268"), 
+    "kanji_vietnamese_id" : "a93da180", 
+    "kanji" : "二", 
+    "japanese_onyomi" : "ニ", 
+    "japanese_kunyomi" : "ニ訓読み", 
+    "vn_jp_meaning" : "NHỊ", 
+    "vietnamese_meaning" : "hai", 
+    "example" : "haiEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "42018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e269"), 
+    "kanji_vietnamese_id" : "ee58ca50", 
+    "kanji" : "入", 
+    "japanese_onyomi" : "ニュウ", 
+    "japanese_kunyomi" : "ニュウ訓読み", 
+    "vn_jp_meaning" : "NHẬP", 
+    "vietnamese_meaning" : "vào", 
+    "example" : "vàoEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e26a"), 
+    "kanji_vietnamese_id" : "51f84dbd", 
+    "kanji" : "八", 
+    "japanese_onyomi" : "ハチ", 
+    "japanese_kunyomi" : "ハチ訓読み", 
+    "vn_jp_meaning" : "BÁT", 
+    "vietnamese_meaning" : "tám", 
+    "example" : "támEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e26b"), 
+    "kanji_vietnamese_id" : "9dab8f3d", 
+    "kanji" : "七", 
+    "japanese_onyomi" : "シチ", 
+    "japanese_kunyomi" : "シチ訓読み", 
+    "vn_jp_meaning" : "THẤT", 
+    "vietnamese_meaning" : "bảy", 
+    "example" : "bảyEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e26c"), 
+    "kanji_vietnamese_id" : "340abf30", 
+    "kanji" : "下", 
+    "japanese_onyomi" : "カ", 
+    "japanese_kunyomi" : "カ訓読み", 
+    "vn_jp_meaning" : "HẠ", 
+    "vietnamese_meaning" : "bên dưới", 
+    "example" : "bên dướiEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e26d"), 
+    "kanji_vietnamese_id" : "39bccb90", 
+    "kanji" : "三", 
+    "japanese_onyomi" : "サン", 
+    "japanese_kunyomi" : "サン訓読み", 
+    "vn_jp_meaning" : "TAM", 
+    "vietnamese_meaning" : "ba, 3", 
+    "example" : "ba, 3EXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e26e"), 
+    "kanji_vietnamese_id" : "37920a19", 
+    "kanji" : "山", 
+    "japanese_onyomi" : "サン", 
+    "japanese_kunyomi" : "サン訓読み", 
+    "vn_jp_meaning" : "SƠN", 
+    "vietnamese_meaning" : "núi, đồi", 
+    "example" : "núi, đồiEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e26f"), 
+    "kanji_vietnamese_id" : "9262495e", 
+    "kanji" : "子", 
+    "japanese_onyomi" : "シ", 
+    "japanese_kunyomi" : "シ訓読み", 
+    "vn_jp_meaning" : "TỬ", 
+    "vietnamese_meaning" : "con, cái", 
+    "example" : "con, cáiEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e270"), 
+    "kanji_vietnamese_id" : "36da2655", 
+    "kanji" : "女", 
+    "japanese_onyomi" : "ジョ・ニョ", 
+    "japanese_kunyomi" : "ジョ・ニョ訓読み", 
+    "vn_jp_meaning" : "NỮ", 
+    "vietnamese_meaning" : "phụ nữ", 
+    "example" : "phụ nữEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e271"), 
+    "kanji_vietnamese_id" : "a1fead2e", 
+    "kanji" : "小", 
+    "japanese_onyomi" : "ショウ", 
+    "japanese_kunyomi" : "ショウ訓読み", 
+    "vn_jp_meaning" : "TIỂU", 
+    "vietnamese_meaning" : "nhỏ", 
+    "example" : "nhỏEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e272"), 
+    "kanji_vietnamese_id" : "2e6ce4d1", 
+    "kanji" : "上", 
+    "japanese_onyomi" : "ジョウ", 
+    "japanese_kunyomi" : "ジョウ訓読み", 
+    "vn_jp_meaning" : "THƯỢNG", 
+    "vietnamese_meaning" : "bên trên", 
+    "example" : "bên trênEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e273"), 
+    "kanji_vietnamese_id" : "e2c9b242", 
+    "kanji" : "川", 
+    "japanese_onyomi" : "セン", 
+    "japanese_kunyomi" : "セン訓読み", 
+    "vn_jp_meaning" : "XUYÊN", 
+    "vietnamese_meaning" : "sông", 
+    "example" : "sôngEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e274"), 
+    "kanji_vietnamese_id" : "7e2962ea", 
+    "kanji" : "土", 
+    "japanese_onyomi" : "ト・ド", 
+    "japanese_kunyomi" : "ト・ド訓読み", 
+    "vn_jp_meaning" : "THỔ", 
+    "vietnamese_meaning" : "đất", 
+    "example" : "đấtEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e275"), 
+    "kanji_vietnamese_id" : "038da753", 
+    "kanji" : "万", 
+    "japanese_onyomi" : "マン・バン", 
+    "japanese_kunyomi" : "マン・バン訓読み", 
+    "vn_jp_meaning" : "VẠN", 
+    "vietnamese_meaning" : "10 ngàn, nhiều", 
+    "example" : "10 ngàn, nhiềuEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e276"), 
+    "kanji_vietnamese_id" : "85d13649", 
+    "kanji" : "大", 
+    "japanese_onyomi" : "ダイ・タイ", 
+    "japanese_kunyomi" : "ダイ・タイ訓読み", 
+    "vn_jp_meaning" : "ĐẠI", 
+    "vietnamese_meaning" : "to, lớn", 
+    "example" : "to, lớnEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e277"), 
+    "kanji_vietnamese_id" : "7a3d6236", 
+    "kanji" : "千", 
+    "japanese_onyomi" : "セン", 
+    "japanese_kunyomi" : "セン訓読み", 
+    "vn_jp_meaning" : "THIÊN", 
+    "vietnamese_meaning" : "ngàn, nhiều", 
+    "example" : "ngàn, nhiềuEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e278"), 
+    "kanji_vietnamese_id" : "cef18b5f", 
+    "kanji" : "円", 
+    "japanese_onyomi" : "エン", 
+    "japanese_kunyomi" : "エン訓読み", 
+    "vn_jp_meaning" : "VIÊN", 
+    "vietnamese_meaning" : "yen, tròn", 
+    "example" : "yen, trònEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "42018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e279"), 
+    "kanji_vietnamese_id" : "a46015bf", 
+    "kanji" : "火", 
+    "japanese_onyomi" : "カ", 
+    "japanese_kunyomi" : "カ訓読み", 
+    "vn_jp_meaning" : "HỎA", 
+    "vietnamese_meaning" : "lửa", 
+    "example" : "lửaEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac86aca3c3bb04b939e27a"), 
+    "kanji_vietnamese_id" : "4ed18831", 
+    "kanji" : "月", 
+    "japanese_onyomi" : "ゲツ・ガツ", 
+    "japanese_kunyomi" : "ゲツ・ガツ訓読み", 
+    "vn_jp_meaning" : "NGUYỆT", 
+    "vietnamese_meaning" : "mặt trăng, tháng", 
+    "example" : "mặt trăng, thángEXAMPLE", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:25"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2ad"), 
+    "kanji_vietnamese_id" : "4a3763b2", 
+    "kanji" : "話", 
+    "japanese_onyomi" : "ワ", 
+    "japanese_kunyomi" : "ワ訓読み", 
+    "vn_jp_meaning" : "THOẠI", 
+    "vietnamese_meaning" : "nói chuyện", 
+    "example" : "nói chuyện訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2ae"), 
+    "kanji_vietnamese_id" : "2edc760a", 
+    "kanji" : "読", 
+    "japanese_onyomi" : "ドク", 
+    "japanese_kunyomi" : "ドク訓読み", 
+    "vn_jp_meaning" : "ĐỘC", 
+    "vietnamese_meaning" : "đọc", 
+    "example" : "đọc訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2af"), 
+    "kanji_vietnamese_id" : "f29e7cb6", 
+    "kanji" : "語", 
+    "japanese_onyomi" : "ゴ", 
+    "japanese_kunyomi" : "ゴ訓読み", 
+    "vn_jp_meaning" : "NGỮ", 
+    "vietnamese_meaning" : "kể, từ ngữ", 
+    "example" : "kể, từ ngữ訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2b0"), 
+    "kanji_vietnamese_id" : "51f71482", 
+    "kanji" : "聞", 
+    "japanese_onyomi" : "ブン", 
+    "japanese_kunyomi" : "ブン訓読み", 
+    "vn_jp_meaning" : "VĂN", 
+    "vietnamese_meaning" : "nghe, báo chí", 
+    "example" : "nghe, báo chí訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2b1"), 
+    "kanji_vietnamese_id" : "397c4fb3", 
+    "kanji" : "力", 
+    "japanese_onyomi" : "リョク・リキ", 
+    "japanese_kunyomi" : "リョク・リキ訓読み", 
+    "vn_jp_meaning" : "LỰC", 
+    "vietnamese_meaning" : "sức, lực", 
+    "example" : "sức, lực訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2b2"), 
+    "kanji_vietnamese_id" : "b128ac2f", 
+    "kanji" : "口", 
+    "japanese_onyomi" : "コウ", 
+    "japanese_kunyomi" : "コウ訓読み", 
+    "vn_jp_meaning" : "KHẨU", 
+    "vietnamese_meaning" : "miệng, cổng", 
+    "example" : "miệng, cổng訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2b3"), 
+    "kanji_vietnamese_id" : "7de9d3f8", 
+    "kanji" : "工", 
+    "japanese_onyomi" : "コウ", 
+    "japanese_kunyomi" : "コウ訓読み", 
+    "vn_jp_meaning" : "CÔNG", 
+    "vietnamese_meaning" : "công việc, công nghiệp", 
+    "example" : "công việc, công nghiệp訓読み", 
+    "search_type" : "1", 
+    "register_date" : "42018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2b4"), 
+    "kanji_vietnamese_id" : "4728b2ac", 
+    "kanji" : "夕", 
+    "japanese_onyomi" : "セキ", 
+    "japanese_kunyomi" : "セキ訓読み", 
+    "vn_jp_meaning" : "TỊCH", 
+    "vietnamese_meaning" : "chiều tà", 
+    "example" : "chiều tà訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2b5"), 
+    "kanji_vietnamese_id" : "329d4e11", 
+    "kanji" : "手", 
+    "japanese_onyomi" : "シュ", 
+    "japanese_kunyomi" : "シュ訓読み", 
+    "vn_jp_meaning" : "THỦ", 
+    "vietnamese_meaning" : "tay, người", 
+    "example" : "tay, người訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2b6"), 
+    "kanji_vietnamese_id" : "c087cf3d", 
+    "kanji" : "牛", 
+    "japanese_onyomi" : "ギュウ", 
+    "japanese_kunyomi" : "ギュウ訓読み", 
+    "vn_jp_meaning" : "NGƯU", 
+    "vietnamese_meaning" : "con bò", 
+    "example" : "con bò訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2b7"), 
+    "kanji_vietnamese_id" : "691860d1", 
+    "kanji" : "犬", 
+    "japanese_onyomi" : "ケン", 
+    "japanese_kunyomi" : "ケン訓読み", 
+    "vn_jp_meaning" : "KHUYỂN", 
+    "vietnamese_meaning" : "con chó", 
+    "example" : "con chó訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2b8"), 
+    "kanji_vietnamese_id" : "26ffc4ce", 
+    "kanji" : "元", 
+    "japanese_onyomi" : "ゲン", 
+    "japanese_kunyomi" : "ゲン訓読み", 
+    "vn_jp_meaning" : "NGUYÊN", 
+    "vietnamese_meaning" : "gốc, điểm ban đầu", 
+    "example" : "gốc, điểm ban đầu訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2b9"), 
+    "kanji_vietnamese_id" : "240099a8", 
+    "kanji" : "公", 
+    "japanese_onyomi" : "コウ", 
+    "japanese_kunyomi" : "コウ訓読み", 
+    "vn_jp_meaning" : "CÔNG", 
+    "vietnamese_meaning" : "công cộng", 
+    "example" : "công cộng訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2ba"), 
+    "kanji_vietnamese_id" : "8667f48d", 
+    "kanji" : "止", 
+    "japanese_onyomi" : "シ", 
+    "japanese_kunyomi" : "シ訓読み", 
+    "vn_jp_meaning" : "CHỈ", 
+    "vietnamese_meaning" : "dừng lại", 
+    "example" : "dừng lại訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2bb"), 
+    "kanji_vietnamese_id" : "0bd11c60", 
+    "kanji" : "少", 
+    "japanese_onyomi" : "ショウ", 
+    "japanese_kunyomi" : "ショウ訓読み", 
+    "vn_jp_meaning" : "\"THIẾU THIỂU\"", 
+    "vietnamese_meaning" : "ít, nhỏ", 
+    "example" : "ít, nhỏ訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2bc"), 
+    "kanji_vietnamese_id" : "d69216a0", 
+    "kanji" : "心", 
+    "japanese_onyomi" : "シン", 
+    "japanese_kunyomi" : "シン訓読み", 
+    "vn_jp_meaning" : "TÂM", 
+    "vietnamese_meaning" : "tim, tấm lòng", 
+    "example" : "tim, tấm lòng訓読み", 
+    "search_type" : "1", 
+    "register_date" : "43370.6902258102"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2bd"), 
+    "kanji_vietnamese_id" : "1d1ecc2a", 
+    "kanji" : "切", 
+    "japanese_onyomi" : "セツ", 
+    "japanese_kunyomi" : "セツ訓読み", 
+    "vn_jp_meaning" : "THIẾT", 
+    "vietnamese_meaning" : "cắt", 
+    "example" : "cắt訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2be"), 
+    "kanji_vietnamese_id" : "8fcb1a27", 
+    "kanji" : "不", 
+    "japanese_onyomi" : "フ", 
+    "japanese_kunyomi" : "フ訓読み", 
+    "vn_jp_meaning" : "BẤT", 
+    "vietnamese_meaning" : "không, phủ định", 
+    "example" : "không, phủ định訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2bf"), 
+    "kanji_vietnamese_id" : "d9867c9f", 
+    "kanji" : "文", 
+    "japanese_onyomi" : "ブン", 
+    "japanese_kunyomi" : "ブン訓読み", 
+    "vn_jp_meaning" : "VĂN", 
+    "vietnamese_meaning" : "lời văn, văn hóa", 
+    "example" : "lời văn, văn hóa訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2c0"), 
+    "kanji_vietnamese_id" : "6b2fcb5d", 
+    "kanji" : "方", 
+    "japanese_onyomi" : "ホウ", 
+    "japanese_kunyomi" : "ホウ訓読み", 
+    "vn_jp_meaning" : "PHƯƠNG", 
+    "vietnamese_meaning" : "phương hướng", 
+    "example" : "phương hướng訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2c1"), 
+    "kanji_vietnamese_id" : "2005f930", 
+    "kanji" : "以", 
+    "japanese_onyomi" : "イ", 
+    "japanese_kunyomi" : "イ訓読み", 
+    "vn_jp_meaning" : "DĨ", 
+    "vietnamese_meaning" : "lấy từ ~, tính từ ~", 
+    "example" : "lấy từ ~, tính từ ~訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2c2"), 
+    "kanji_vietnamese_id" : "fdcd01bb", 
+    "kanji" : "去", 
+    "japanese_onyomi" : "キョ", 
+    "japanese_kunyomi" : "キョ訓読み", 
+    "vn_jp_meaning" : "KHỨ", 
+    "vietnamese_meaning" : "rời bỏ", 
+    "example" : "rời bỏ訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8896a3c3bb04b939e2c3"), 
+    "kanji_vietnamese_id" : "bffca733", 
+    "kanji" : "兄", 
+    "japanese_onyomi" : "キョウ", 
+    "japanese_kunyomi" : "キョウ訓読み", 
+    "vn_jp_meaning" : "HUYNH", 
+    "vietnamese_meaning" : "anh trai", 
+    "example" : "anh trai訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:33"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e2fe"), 
+    "kanji_vietnamese_id" : "f5897f52", 
+    "kanji" : "古", 
+    "japanese_onyomi" : "コ", 
+    "japanese_kunyomi" : "コ訓読み", 
+    "vn_jp_meaning" : "CỔ", 
+    "vietnamese_meaning" : "cũ", 
+    "example" : "cũ訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e2ff"), 
+    "kanji_vietnamese_id" : "6985f388", 
+    "kanji" : "広", 
+    "japanese_onyomi" : "コウ", 
+    "japanese_kunyomi" : "コウ訓読み", 
+    "vn_jp_meaning" : "QUẢNG", 
+    "vietnamese_meaning" : "rộng", 
+    "example" : "rộng訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e300"), 
+    "kanji_vietnamese_id" : "8756d752", 
+    "kanji" : "主", 
+    "japanese_onyomi" : "シュ", 
+    "japanese_kunyomi" : "シュ訓読み", 
+    "vn_jp_meaning" : "CHỦ", 
+    "vietnamese_meaning" : "chủ yếu, làm chủ", 
+    "example" : "chủ yếu, làm chủ訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e301"), 
+    "kanji_vietnamese_id" : "0e0b056f", 
+    "kanji" : "世", 
+    "japanese_onyomi" : "セ", 
+    "japanese_kunyomi" : "セ訓読み", 
+    "vn_jp_meaning" : "THẾ", 
+    "vietnamese_meaning" : "thế giới", 
+    "example" : "thế giới訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e302"), 
+    "kanji_vietnamese_id" : "86c76233", 
+    "kanji" : "正", 
+    "japanese_onyomi" : "セイ", 
+    "japanese_kunyomi" : "セイ訓読み", 
+    "vn_jp_meaning" : "CHÍNH", 
+    "vietnamese_meaning" : "đúng đắn", 
+    "example" : "đúng đắn訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e303"), 
+    "kanji_vietnamese_id" : "cd9372c5", 
+    "kanji" : "代", 
+    "japanese_onyomi" : "ダイ", 
+    "japanese_kunyomi" : "ダイ訓読み", 
+    "vn_jp_meaning" : "ĐẠI", 
+    "vietnamese_meaning" : "thay mặt, tiền ngang giá", 
+    "example" : "thay mặt, tiền ngang giá訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e304"), 
+    "kanji_vietnamese_id" : "0b01c7d5", 
+    "kanji" : "台", 
+    "japanese_onyomi" : "ダイ", 
+    "japanese_kunyomi" : "ダイ訓読み", 
+    "vn_jp_meaning" : "DÀI", 
+    "vietnamese_meaning" : "cái bệ, bồn, đài cao", 
+    "example" : "cái bệ, bồn, đài cao訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e305"), 
+    "kanji_vietnamese_id" : "e712bff1", 
+    "kanji" : "田", 
+    "japanese_onyomi" : "デン", 
+    "japanese_kunyomi" : "デン訓読み", 
+    "vn_jp_meaning" : "ĐIỀN", 
+    "vietnamese_meaning" : "ruộng", 
+    "example" : "ruộng訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e306"), 
+    "kanji_vietnamese_id" : "8e22b50b", 
+    "kanji" : "冬", 
+    "japanese_onyomi" : "トウ", 
+    "japanese_kunyomi" : "トウ訓読み", 
+    "vn_jp_meaning" : "ĐÔNG", 
+    "vietnamese_meaning" : "mùa đông", 
+    "example" : "mùa đông訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e307"), 
+    "kanji_vietnamese_id" : "4680b150", 
+    "kanji" : "目", 
+    "japanese_onyomi" : "モク", 
+    "japanese_kunyomi" : "モク訓読み", 
+    "vn_jp_meaning" : "MỤC", 
+    "vietnamese_meaning" : "mắt", 
+    "example" : "mắt訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e308"), 
+    "kanji_vietnamese_id" : "0e171a21", 
+    "kanji" : "用", 
+    "japanese_onyomi" : "ヨウ", 
+    "japanese_kunyomi" : "ヨウ訓読み", 
+    "vn_jp_meaning" : "DỤNG", 
+    "vietnamese_meaning" : "dùng, sử dụng", 
+    "example" : "dùng, sử dụng訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e309"), 
+    "kanji_vietnamese_id" : "106c96b6", 
+    "kanji" : "立", 
+    "japanese_onyomi" : "リツ", 
+    "japanese_kunyomi" : "リツ訓読み", 
+    "vn_jp_meaning" : "LẬP", 
+    "vietnamese_meaning" : "đứng, thiết lập", 
+    "example" : "đứng, thiết lập訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e30a"), 
+    "kanji_vietnamese_id" : "95fdb989", 
+    "kanji" : "写", 
+    "japanese_onyomi" : "シャ", 
+    "japanese_kunyomi" : "シャ訓読み", 
+    "vn_jp_meaning" : "TẢ", 
+    "vietnamese_meaning" : "sao chép, ảnh", 
+    "example" : "sao chép, ảnh訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e30b"), 
+    "kanji_vietnamese_id" : "f1507b46", 
+    "kanji" : "多", 
+    "japanese_onyomi" : "タ", 
+    "japanese_kunyomi" : "タ訓読み", 
+    "vn_jp_meaning" : "ĐA", 
+    "vietnamese_meaning" : "nhiều", 
+    "example" : "nhiều訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e30c"), 
+    "kanji_vietnamese_id" : "b2d52eb2", 
+    "kanji" : "安", 
+    "japanese_onyomi" : "アン", 
+    "japanese_kunyomi" : "アン訓読み", 
+    "vn_jp_meaning" : "AN", 
+    "vietnamese_meaning" : "rẻ, an tâm, yên ổn", 
+    "example" : "rẻ, an tâm, yên ổn訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e30d"), 
+    "kanji_vietnamese_id" : "a16ecc8e", 
+    "kanji" : "会", 
+    "japanese_onyomi" : "カイ", 
+    "japanese_kunyomi" : "カイ訓読み", 
+    "vn_jp_meaning" : "HỘI", 
+    "vietnamese_meaning" : "gặp gỡ, hiệp hội", 
+    "example" : "gặp gỡ, hiệp hội訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e30e"), 
+    "kanji_vietnamese_id" : "42450ea0", 
+    "kanji" : "考", 
+    "japanese_onyomi" : "コウ", 
+    "japanese_kunyomi" : "コウ訓読み", 
+    "vn_jp_meaning" : "KHẢO", 
+    "vietnamese_meaning" : "suy nghĩ", 
+    "example" : "suy nghĩ訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e30f"), 
+    "kanji_vietnamese_id" : "f7219824", 
+    "kanji" : "死", 
+    "japanese_onyomi" : "シ", 
+    "japanese_kunyomi" : "シ訓読み", 
+    "vn_jp_meaning" : "TỬ", 
+    "vietnamese_meaning" : "chết", 
+    "example" : "chết訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e310"), 
+    "kanji_vietnamese_id" : "a88d4cbe", 
+    "kanji" : "字", 
+    "japanese_onyomi" : "ジ", 
+    "japanese_kunyomi" : "ジ訓読み", 
+    "vn_jp_meaning" : "TỰ", 
+    "vietnamese_meaning" : "chữ", 
+    "example" : "chữ訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e311"), 
+    "kanji_vietnamese_id" : "aa378b26", 
+    "kanji" : "自", 
+    "japanese_onyomi" : "ジ", 
+    "japanese_kunyomi" : "ジ訓読み", 
+    "vn_jp_meaning" : "TỰ", 
+    "vietnamese_meaning" : "tự mình, tự thân", 
+    "example" : "tự mình, tự thân訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e312"), 
+    "kanji_vietnamese_id" : "4d22ce36", 
+    "kanji" : "色", 
+    "japanese_onyomi" : "ショク・シキ", 
+    "japanese_kunyomi" : "ショク・シキ訓読み", 
+    "vn_jp_meaning" : "SẮC", 
+    "vietnamese_meaning" : "màu, dục", 
+    "example" : "màu, dục訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e313"), 
+    "kanji_vietnamese_id" : "9fe7cd60", 
+    "kanji" : "早", 
+    "japanese_onyomi" : "ソウ", 
+    "japanese_kunyomi" : "ソウ訓読み", 
+    "vn_jp_meaning" : "TẢO", 
+    "vietnamese_meaning" : "sớm", 
+    "example" : "sớm訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}
+{ 
+    "_id" : ObjectId("5bac8cbba3c3bb04b939e314"), 
+    "kanji_vietnamese_id" : "f99ff121", 
+    "kanji" : "車", 
+    "japanese_onyomi" : "シャ", 
+    "japanese_kunyomi" : "シャ訓読み", 
+    "vn_jp_meaning" : "XA", 
+    "vietnamese_meaning" : "xe, xe hơi", 
+    "example" : "xe, xe hơi訓読み", 
+    "search_type" : "1", 
+    "register_date" : "2018/9/27 16:51"
+}

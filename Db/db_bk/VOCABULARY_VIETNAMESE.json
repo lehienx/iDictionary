@@ -1,0 +1,700 @@
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e37e"), 
+    "vietnamese_id" : "b821a83c", 
+    "japanese" : "わたし ", 
+    "furigana" : "わたし ", 
+    "vietnamese" : " tôi ", 
+    "details" : " tôi detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e37f"), 
+    "vietnamese_id" : "43088860", 
+    "japanese" : "わたしたち ", 
+    "furigana" : "わたしたち ", 
+    "vietnamese" : " chúng ta, chúng tôi ", 
+    "details" : " chúng ta, chúng tôi detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e380"), 
+    "vietnamese_id" : "1c119b17", 
+    "japanese" : "あなた ", 
+    "furigana" : "あなた ", 
+    "vietnamese" : " bạn ", 
+    "details" : " bạn detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e381"), 
+    "vietnamese_id" : "950686e7", 
+    "japanese" : "あのひと ", 
+    "furigana" : "あのひと ", 
+    "vietnamese" : " người kia ", 
+    "details" : " người kia detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e382"), 
+    "vietnamese_id" : "64fb6b9d", 
+    "japanese" : "あのかた ", 
+    "furigana" : "あのかた ", 
+    "vietnamese" : " vị kia ", 
+    "details" : " vị kia detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e383"), 
+    "vietnamese_id" : "8d37e417", 
+    "japanese" : "みなさん ", 
+    "furigana" : "みなさん ", 
+    "vietnamese" : " các anh, các chị, các bạn, mọi người ", 
+    "details" : " các anh, các chị, các bạn, mọi người detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e384"), 
+    "vietnamese_id" : "2c591945", 
+    "japanese" : "～さん <～san> ", 
+    "furigana" : "～さん <～san> ", 
+    "vietnamese" : " anh ～, chị ～", 
+    "details" : " anh ～, chị ～detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e385"), 
+    "vietnamese_id" : "3b903975", 
+    "japanese" : "～ちゃん <～chan> ", 
+    "furigana" : "～ちゃん <～chan> ", 
+    "vietnamese" : " bé (được dùng cho nữ) hoặc là cách  gọi thân mật dành cho trẻ em (cả nam lẫn nữ) ", 
+    "details" : " bé (được dùng cho nữ) hoặc là cách  gọi thân mật dành cho trẻ em (cả nam lẫn nữ) detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e386"), 
+    "vietnamese_id" : "d056a33b", 
+    "japanese" : "～くん <～kun> ", 
+    "furigana" : "～くん <～kun> ", 
+    "vietnamese" : " bé (được dùng cho nam) hoặc là cách gọi thân mật ", 
+    "details" : " bé (được dùng cho nam) hoặc là cách gọi thân mật detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e387"), 
+    "vietnamese_id" : "26b55810", 
+    "japanese" : "～じん <～jin> ", 
+    "furigana" : "～じん <～jin> ", 
+    "vietnamese" : " người nước ～", 
+    "details" : " người nước ～detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e388"), 
+    "vietnamese_id" : "eec3df3f", 
+    "japanese" : "せんせい ", 
+    "furigana" : "せんせい ", 
+    "vietnamese" : " giáo viên ", 
+    "details" : " giáo viên detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e389"), 
+    "vietnamese_id" : "f6918d39", 
+    "japanese" : "きょうし ", 
+    "furigana" : "きょうし ", 
+    "vietnamese" : " giáo viên ( được dùng khi nói đến nghề nghiệp) ", 
+    "details" : " giáo viên ( được dùng khi nói đến nghề nghiệp) detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e38a"), 
+    "vietnamese_id" : "7cf070dd", 
+    "japanese" : "がくせい ", 
+    "furigana" : "がくせい ", 
+    "vietnamese" : " sinh viên, học sinh", 
+    "details" : " sinh viên, học sinhdetail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e38b"), 
+    "vietnamese_id" : "13317a84", 
+    "japanese" : "かいしゃいん ", 
+    "furigana" : "かいしゃいん ", 
+    "vietnamese" : " nhân viên công ty ", 
+    "details" : " nhân viên công ty detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e38c"), 
+    "vietnamese_id" : "9b7751f5", 
+    "japanese" : "～しゃいん <～shain> ", 
+    "furigana" : "～しゃいん <～shain> ", 
+    "vietnamese" : " nhân viên công ty ～", 
+    "details" : " nhân viên công ty ～detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e38d"), 
+    "vietnamese_id" : "a474a185", 
+    "japanese" : "ぎんこういん ", 
+    "furigana" : "ぎんこういん ", 
+    "vietnamese" : " nhân viên ngân hàng ", 
+    "details" : " nhân viên ngân hàng detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e38e"), 
+    "vietnamese_id" : "02823dde", 
+    "japanese" : "いしゃ ", 
+    "furigana" : "いしゃ ", 
+    "vietnamese" : " bác sĩ ", 
+    "details" : " bác sĩ detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e38f"), 
+    "vietnamese_id" : "93e4ed69", 
+    "japanese" : "けんきゅうしゃ ", 
+    "furigana" : "けんきゅうしゃ ", 
+    "vietnamese" : " nghiên cứu sinh ", 
+    "details" : " nghiên cứu sinh detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e390"), 
+    "vietnamese_id" : "6a560e24", 
+    "japanese" : "エンジニア ", 
+    "furigana" : "エンジニア ", 
+    "vietnamese" : " kỹ sư ", 
+    "details" : " kỹ sư detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e391"), 
+    "vietnamese_id" : "fc8d3b67", 
+    "japanese" : "だいがく ", 
+    "furigana" : "だいがく ", 
+    "vietnamese" : " trường đại học ", 
+    "details" : " trường đại học detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e392"), 
+    "vietnamese_id" : "bdeb9b74", 
+    "japanese" : "びょういん ", 
+    "furigana" : "びょういん ", 
+    "vietnamese" : " bệnh viện ", 
+    "details" : " bệnh viện detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e393"), 
+    "vietnamese_id" : "ad20c331", 
+    "japanese" : "でんき ", 
+    "furigana" : "でんき ", 
+    "vietnamese" : " điện ", 
+    "details" : " điện detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e394"), 
+    "vietnamese_id" : "ab9793f7", 
+    "japanese" : "だれ ", 
+    "furigana" : "だれ ", 
+    "vietnamese" : " ai (hỏi người nào đó) ", 
+    "details" : " ai (hỏi người nào đó) detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e395"), 
+    "vietnamese_id" : "4bf123db", 
+    "japanese" : "どなた ", 
+    "furigana" : "どなた ", 
+    "vietnamese" : " vị nào, ngài nào (cùng nghĩa trên nhưng dùng trong tình huống lịch sự hơn) ", 
+    "details" : " vị nào, ngài nào (cùng nghĩa trên nhưng dùng trong tình huống lịch sự hơn) detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac91a6a3c3bb04b939e396"), 
+    "vietnamese_id" : "7118a173", 
+    "japanese" : "～さい", 
+    "furigana" : "～さい", 
+    "vietnamese" : " <～sai> : ～tuổi ", 
+    "details" : " <～sai> : ～tuổi detail", 
+    "register_date" : "2018/9/27 17:14", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3ca"), 
+    "vietnamese_id" : "ddec0577", 
+    "japanese" : "丘", 
+    "furigana" : "おか", 
+    "vietnamese" : "Đồi, chiều cao", 
+    "details" : "Đồi, chiều caodetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3cb"), 
+    "vietnamese_id" : "af486416", 
+    "japanese" : "沖", 
+    "furigana" : "おき", 
+    "vietnamese" : "Biển khơi", 
+    "details" : "Biển khơidetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3cc"), 
+    "vietnamese_id" : "47dd3814", 
+    "japanese" : "奥", 
+    "furigana" : "おく", 
+    "vietnamese" : "Vợ", 
+    "details" : "Vợdetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3cd"), 
+    "vietnamese_id" : "836c3904", 
+    "japanese" : "贈る", 
+    "furigana" : "おくる", 
+    "vietnamese" : "Tặng, gửi", 
+    "details" : "Tặng, gửidetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3ce"), 
+    "vietnamese_id" : "bab574a5", 
+    "japanese" : "起こる", 
+    "furigana" : "おこる", 
+    "vietnamese" : "Xảy ra", 
+    "details" : "Xảy radetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3cf"), 
+    "vietnamese_id" : "407b44f9", 
+    "japanese" : "幼い", 
+    "furigana" : "おさない", 
+    "vietnamese" : "Ấu thơ, còn nhỏ", 
+    "details" : "Ấu thơ, còn nhỏdetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3d0"), 
+    "vietnamese_id" : "d6ce64c5", 
+    "japanese" : "収める", 
+    "furigana" : "おさめる", 
+    "vietnamese" : "Thu được, gặt hái", 
+    "details" : "Thu được, gặt háidetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3d1"), 
+    "vietnamese_id" : "82319071", 
+    "japanese" : "おじいさん", 
+    "furigana" : "おじいさん", 
+    "vietnamese" : "Ông nội", 
+    "details" : "Ông nộidetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3d2"), 
+    "vietnamese_id" : "61022aa4", 
+    "japanese" : "おしゃべり", 
+    "furigana" : "おしゃべり", 
+    "vietnamese" : "Tám chuyện, nói chuyện", 
+    "details" : "Tám chuyện, nói chuyệndetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3d3"), 
+    "vietnamese_id" : "c2b1e45a", 
+    "japanese" : "汚染", 
+    "furigana" : "おせん", 
+    "vietnamese" : "Ô nhiễm", 
+    "details" : "Ô nhiễmdetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3d4"), 
+    "vietnamese_id" : "b8e1148c", 
+    "japanese" : "おそらく", 
+    "furigana" : "おそらく", 
+    "vietnamese" : "Có lẽ, e rằng", 
+    "details" : "Có lẽ, e rằngdetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3d5"), 
+    "vietnamese_id" : "025bb0de", 
+    "japanese" : "恐れる", 
+    "furigana" : "おそれる", 
+    "vietnamese" : "E sợ, lo sợ", 
+    "details" : "E sợ, lo sợdetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3d6"), 
+    "vietnamese_id" : "50fd0229", 
+    "japanese" : "恐ろしい", 
+    "furigana" : "おそろしい", 
+    "vietnamese" : "Khủng khiếp", 
+    "details" : "Khủng khiếpdetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3d7"), 
+    "vietnamese_id" : "e4d7cee8", 
+    "japanese" : "お互い", 
+    "furigana" : "おたがい", 
+    "vietnamese" : "Nhau, lẫn nhau", 
+    "details" : "Nhau, lẫn nhaudetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3d8"), 
+    "vietnamese_id" : "6ba92b0a", 
+    "japanese" : "穏やか", 
+    "furigana" : "おだやか", 
+    "vietnamese" : "Ôn hòa, nhẹ nhàng, bình tĩnh", 
+    "details" : "Ôn hòa, nhẹ nhàng, bình tĩnhdetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3d9"), 
+    "vietnamese_id" : "bd6da6cc", 
+    "japanese" : "男の人", 
+    "furigana" : "おとこのひと", 
+    "vietnamese" : "Người đàn ông", 
+    "details" : "Người đàn ôngdetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3da"), 
+    "vietnamese_id" : "a8732cd0", 
+    "japanese" : "劣る", 
+    "furigana" : "おとる ", 
+    "vietnamese" : "Tụt hậu, chất lượng thấp hơn", 
+    "details" : "Tụt hậu, chất lượng thấp hơndetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3db"), 
+    "vietnamese_id" : "54c1f3c0", 
+    "japanese" : "お腹", 
+    "furigana" : "おなか", 
+    "vietnamese" : "Bụng", 
+    "details" : "Bụngdetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3dc"), 
+    "vietnamese_id" : "60c25b21", 
+    "japanese" : "帯", 
+    "furigana" : "おび ", 
+    "vietnamese" : "Đai lưng", 
+    "details" : "Đai lưngdetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3dd"), 
+    "vietnamese_id" : "3c4d7fde", 
+    "japanese" : "お昼", 
+    "furigana" : "おひる", 
+    "vietnamese" : "Buổi trưa", 
+    "details" : "Buổi trưadetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3de"), 
+    "vietnamese_id" : "12decdc5", 
+    "japanese" : "オフィス", 
+    "furigana" : "オフィス", 
+    "vietnamese" : "Văn phòng", 
+    "details" : "Văn phòngdetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac93f0a3c3bb04b939e3df"), 
+    "vietnamese_id" : "bf24467e", 
+    "japanese" : "溺れる", 
+    "furigana" : "おまえ", 
+    "vietnamese" : "Chúc mừng", 
+    "details" : "Chúc mừngdetails", 
+    "register_date" : "2018/9/27 17:23", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e411"), 
+    "vietnamese_id" : "8022b970", 
+    "japanese" : "青白い", 
+    "furigana" : "あおじろい", 
+    "vietnamese" : "Nhợt nhạt, xanh xao", 
+    "details" : "Nhợt nhạt, xanh xaodetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e412"), 
+    "vietnamese_id" : "962ea0b5", 
+    "japanese" : "明き", 
+    "furigana" : "あき", 
+    "vietnamese" : "Phòng, thời gian rảnh rỗi", 
+    "details" : "Phòng, thời gian rảnh rỗidetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e413"), 
+    "vietnamese_id" : "02a131e0", 
+    "japanese" : "あきれる", 
+    "furigana" : "あきれる", 
+    "vietnamese" : "Ngạc nhiên, bị sốc", 
+    "details" : "Ngạc nhiên, bị sốcdetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e414"), 
+    "vietnamese_id" : "358ff845", 
+    "japanese" : "クセント", 
+    "furigana" : "クセント", 
+    "vietnamese" : "Giọng", 
+    "details" : "Giọngdetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e415"), 
+    "vietnamese_id" : "10122184", 
+    "japanese" : "あくび", 
+    "furigana" : "あくび", 
+    "vietnamese" : "Ngáp", 
+    "details" : "Ngápdetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e416"), 
+    "vietnamese_id" : "bdabf7ff", 
+    "japanese" : "飽くまで", 
+    "furigana" : "あくまで", 
+    "vietnamese" : "Cuối cùng, bướng bỉnh", 
+    "details" : "Cuối cùng, bướng bỉnhdetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e417"), 
+    "vietnamese_id" : "f517f71e", 
+    "japanese" : "明け方", 
+    "furigana" : "あけがた", 
+    "vietnamese" : "Bình minh", 
+    "details" : "Bình minhdetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e418"), 
+    "vietnamese_id" : "8ebd4954", 
+    "japanese" : "揚げる", 
+    "furigana" : "あげる", 
+    "vietnamese" : "Nâng, chiên", 
+    "details" : "Nâng, chiêndetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e419"), 
+    "vietnamese_id" : "53aa1f88", 
+    "japanese" : "挙げる", 
+    "furigana" : "あげる", 
+    "vietnamese" : "Nâng cao, bay", 
+    "details" : "Nâng cao, baydetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e41a"), 
+    "vietnamese_id" : "166208f6", 
+    "japanese" : "憧れる", 
+    "furigana" : "あこがれる", 
+    "vietnamese" : "Mong ước, mơ ước", 
+    "details" : "Mong ước, mơ ướcdetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e41b"), 
+    "vietnamese_id" : "88e4471a", 
+    "japanese" : "足跡", 
+    "furigana" : "あしあと", 
+    "vietnamese" : "Dấu chân", 
+    "details" : "Dấu chândetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e41c"), 
+    "vietnamese_id" : "fd5cb513", 
+    "japanese" : "味わう", 
+    "furigana" : "あじわう", 
+    "vietnamese" : "Nếm, thưởng thức", 
+    "details" : "Nếm, thưởng thứcdetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e41d"), 
+    "vietnamese_id" : "6f2ea22d", 
+    "japanese" : "預かる", 
+    "furigana" : "あずかる", 
+    "vietnamese" : "Trong nom, canh giữ, chăm sóc", 
+    "details" : "Trong nom, canh giữ, chăm sócdetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e41e"), 
+    "vietnamese_id" : "1dd5e36d", 
+    "japanese" : "暖まる", 
+    "furigana" : "あたたまる", 
+    "vietnamese" : "Sưởi ấm", 
+    "details" : "Sưởi ấmdetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e41f"), 
+    "vietnamese_id" : "7613ebf9", 
+    "japanese" : "あたりまえ", 
+    "furigana" : "あたりまえ", 
+    "vietnamese" : "Thông thường, phổ biến", 
+    "details" : "Thông thường, phổ biếndetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e420"), 
+    "vietnamese_id" : "a2847455", 
+    "japanese" : "あちらこちら", 
+    "furigana" : "あちらこちら", 
+    "vietnamese" : "Đây và đó", 
+    "details" : "Đây và đódetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e421"), 
+    "vietnamese_id" : "efad3613", 
+    "japanese" : "厚かましい", 
+    "furigana" : "あつかましい", 
+    "vietnamese" : "Trơ tráo, vô liêm sĩ", 
+    "details" : "Trơ tráo, vô liêm sĩdetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e422"), 
+    "vietnamese_id" : "f1ec553a", 
+    "japanese" : "圧縮", 
+    "furigana" : "あっしゅく", 
+    "vietnamese" : "Áp lực, nén, ngưng tụ", 
+    "details" : "Áp lực, nén, ngưng tụdetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e423"), 
+    "vietnamese_id" : "b23427c5", 
+    "japanese" : "宛名", 
+    "furigana" : "あてな", 
+    "vietnamese" : "Địa chỉ", 
+    "details" : "Địa chỉdetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e424"), 
+    "vietnamese_id" : "24215a04", 
+    "japanese" : "あてはまる", 
+    "furigana" : "あてはまる", 
+    "vietnamese" : "Được áp dụng, đi theo", 
+    "details" : "Được áp dụng, đi theodetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e425"), 
+    "vietnamese_id" : "caeceb49", 
+    "japanese" : "あてはめる", 
+    "furigana" : "あてはめる", 
+    "vietnamese" : "Áp dụng, thích ứng", 
+    "details" : "Áp dụng, thích ứngdetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e426"), 
+    "vietnamese_id" : "039a7789", 
+    "japanese" : "暴れる", 
+    "furigana" : "あばれる", 
+    "vietnamese" : "Hành động dữ dội, bạo loạn", 
+    "details" : "Hành động dữ dội, bạo loạndetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
+{ 
+    "_id" : ObjectId("5bac969aa3c3bb04b939e427"), 
+    "vietnamese_id" : "9190b0ee", 
+    "japanese" : "脂", 
+    "furigana" : " あぶら", 
+    "vietnamese" : "Chất béo, mỡ động vật", 
+    "details" : "Chất béo, mỡ động vậtdetails", 
+    "register_date" : "2018/9/27 17:35", 
+    "search_type" : "0"
+}
